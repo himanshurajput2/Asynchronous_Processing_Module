@@ -1,5 +1,7 @@
 # Asynchronous_Processing_Module
 
+Linux kernel module to support asynchronous processing of jobs. User space module to add/remove or change priority of jobs.
+
 Objects
 --------------------------------------------------------------------------------
 1. Job Queue
